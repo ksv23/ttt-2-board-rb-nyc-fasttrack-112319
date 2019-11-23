@@ -6,4 +6,4 @@ student4 = "5"
 
 students = [student1, student2, student3, student4]
 
-puts students[1]
+puts students
