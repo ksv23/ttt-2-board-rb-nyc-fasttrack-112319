@@ -1,4 +1,2 @@
 # Define the variable board below.
-row = [" ", " ", " "]
-
-puts row[1] = "X"
+students = [student1, student2, student3, student4]
