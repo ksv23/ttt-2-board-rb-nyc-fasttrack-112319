@@ -2,4 +2,4 @@
 
 board = [ " ", " ", " ", " ", " ", " ", " ", " ", " " ]
 
-puts students
+puts board
